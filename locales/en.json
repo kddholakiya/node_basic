@@ -1,0 +1,34 @@
+{
+	"api": {
+		"errors": {
+			"PleaseEnterLoginDetails": "Please enter all login details",
+			"UserNotFound": "This user account is not available",
+			"SomethingWrong": "Oops! Something went wrong.",
+			"InvalidToken": "Invalid token.........!!!!",
+			"sessionExpire": "Session expired....!!!",
+			"InvalidPassword": "Incorrect password !!",
+			"InvalidAccount": "You don't have access for that.",
+			"accountAlreadyExist": "Account with this email is already exist.",
+			"NoDataAvailable": "There are no data available.",
+			"TokenNotProvided": "api.errors.TokenNotProvided"
+		},
+		"msg": {
+			"Success": "Success!",
+			"Signup": "Thank you for registering.",
+			"Login": "You have successfully logged in!",
+			"UserUpdated": "Your profile has been successfully updated.",
+			"PasswordUpdated": "Your password has been changed successfully.",
+			"LoggedOut": "You have logged out successfully.",
+			"UserCreated": "User has been created successfully.",
+			"userDeleted": "User deleted successfully.",
+			"usersgetsuccess": "User data fetched successfully.",
+			"ProductAdded": "Product has been added successfully.",
+			"ProductNotFound": "This product is not available.",
+			"ProductDeleted": "Product deleted successfully.",
+			"ProductUpdated": "Product details has beem successfully updated.",
+			"ProductGetSuccess": "All product data fetched successfully.",
+			"ProductDetailsFetched": "Product details fetched successfully.",
+			"ordercreated": "Order has been created successfully for this company"
+		}
+	}
+}
